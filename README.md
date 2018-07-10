@@ -1,13 +1,13 @@
 # Description:
 
-# Create a random token with your parameters.
-    token(
-        (int)$length, 
-        (bool)$lowercase, 
-        (bool)$uppercase, 
-        (bool)$numbers, 
-        (bool)$specialCharacthers
-    );
+        // Create a random token with your parameters.
+        token(
+            (int)$length, 
+            (bool)$lowercase, 
+            (bool)$uppercase, 
+            (bool)$numbers, 
+            (bool)$specialCharacthers
+        );
 
 # Installation:
 

@@ -4,6 +4,16 @@
     "keywords": ["token", "generator"],
     "license": "MIT",
     "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Boldizart/tokengenerator.git"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "Boldizart/tokengenerator": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Boldizart\\": "src/"
@@ -15,10 +25,7 @@
             "email": "boldizar.santo@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-        "php": ">=5.4"
-    }
+    "minimum-stability": "stable"
 }
 
 
