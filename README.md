@@ -11,7 +11,7 @@
 
 # Installation:
 
-        composer require 'boldizart/tokengenerator';
+        composer require boldizart/tokengenerator:dev-master;
 
 
 # Example:
