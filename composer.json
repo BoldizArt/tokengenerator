@@ -1,0 +1,29 @@
+{
+    "name": "boldizart/tokengenerator",
+    "description": "Generate random token with your parameters.",
+    "keywords": ["token", "generator"],
+    "license": "MIT",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Boldizart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boldizart",
+            "email": "boldizar.santo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4"
+    }
+}
+
+
+
+
+
+
+
